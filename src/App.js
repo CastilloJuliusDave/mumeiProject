@@ -8,12 +8,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={friend} className="App-logo" alt="logo" />
+        <a href="https://www.redbubble.com/i/photographic-print/Hololive-Mumei-friend-by-SwampySoup/87223807.6Q0TX" id="friend-shop" >
+          <img src={friend} className="Friend-logo" alt="logo" />
+        </a>
         <div id="global">{clickCountGlobal}</div>
         <div id="local">{clickCounter}</div>
         <div className="button-wrapper">
         <audio id="audio" src={ohHi}></audio>
-          <button id="im-pomu" 
+          <button id="oh-Hi" 
             type="button" 
             onClick={() => {
               var audio = document.getElementById("audio");
