@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mumeiProject2/static/css/main.15dc225b.css",
-    "main.js": "/mumeiProject2/static/js/main.c57fdf9c.js",
+    "main.js": "/mumeiProject2/static/js/main.66c5ab73.js",
     "static/js/787.d6cb1aba.chunk.js": "/mumeiProject2/static/js/787.d6cb1aba.chunk.js",
     "static/media/friend.png": "/mumeiProject2/static/media/friend.dea3713a87813dc513fc.png",
     "static/media/ohHi.mp3": "/mumeiProject2/static/media/ohHi.52502eba9ae4783678c5.mp3",
     "index.html": "/mumeiProject2/index.html",
     "main.15dc225b.css.map": "/mumeiProject2/static/css/main.15dc225b.css.map",
-    "main.c57fdf9c.js.map": "/mumeiProject2/static/js/main.c57fdf9c.js.map",
+    "main.66c5ab73.js.map": "/mumeiProject2/static/js/main.66c5ab73.js.map",
     "787.d6cb1aba.chunk.js.map": "/mumeiProject2/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15dc225b.css",
-    "static/js/main.c57fdf9c.js"
+    "static/js/main.66c5ab73.js"
   ]
 }
