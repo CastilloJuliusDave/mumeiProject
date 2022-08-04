@@ -7,8 +7,8 @@ This project is not intended for others to see. Only for personal Close friends 
 Do not share to others. im shy. hahaha\
 
 Friend art by Aiya 88\
-with [Hololive-Mumei-friend-by-SwampySoup](https://www.redbubble.com/i/photographic-print/Hololive-Mumei-friend-by-SwampySoup/87223807.6Q0TX)
-with [SwampySoup shop](https://www.redbubble.com/people/SwampySoup/shop)
+[Hololive-Mumei-friend-by-SwampySoup](https://www.redbubble.com/i/photographic-print/Hololive-Mumei-friend-by-SwampySoup/87223807.6Q0TX)
+[SwampySoup shop](https://www.redbubble.com/people/SwampySoup/shop)
 
 
 
