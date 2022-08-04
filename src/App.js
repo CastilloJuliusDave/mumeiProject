@@ -2,7 +2,7 @@ import friend from './assets/friend.png';
 import ohHi from './assets/ohHi.mp3';
 import './App.css';
 let clickCounter = 0;
-let clickCountGlobal = 0;
+let clickCountGlobal = localStorage.clickcount1 ? localStorage.clickcount1 : 0;
 
 function App() {
   return (
