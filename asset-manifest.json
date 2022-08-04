@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/mumeiProject2/static/css/main.073c9b0a.css",
-    "main.js": "/mumeiProject2/static/js/main.a65207d8.js",
+    "main.css": "/mumeiProject2/static/css/main.15dc225b.css",
+    "main.js": "/mumeiProject2/static/js/main.c57fdf9c.js",
     "static/js/787.d6cb1aba.chunk.js": "/mumeiProject2/static/js/787.d6cb1aba.chunk.js",
-    "static/media/logo.svg": "/mumeiProject2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/friend.png": "/mumeiProject2/static/media/friend.dea3713a87813dc513fc.png",
+    "static/media/ohHi.mp3": "/mumeiProject2/static/media/ohHi.52502eba9ae4783678c5.mp3",
     "index.html": "/mumeiProject2/index.html",
-    "main.073c9b0a.css.map": "/mumeiProject2/static/css/main.073c9b0a.css.map",
-    "main.a65207d8.js.map": "/mumeiProject2/static/js/main.a65207d8.js.map",
+    "main.15dc225b.css.map": "/mumeiProject2/static/css/main.15dc225b.css.map",
+    "main.c57fdf9c.js.map": "/mumeiProject2/static/js/main.c57fdf9c.js.map",
     "787.d6cb1aba.chunk.js.map": "/mumeiProject2/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a65207d8.js"
+    "static/css/main.15dc225b.css",
+    "static/js/main.c57fdf9c.js"
   ]
 }
