@@ -1,6 +1,6 @@
 # mumeiProject2
 
-Check Project [Here](https://castillojuliusdave.github.io/mumeiProject/)\
+Check Project [Here](https://castillojuliusdave.github.io/mumeiProject/)
 
 Im trying to create my own Mumei Counter which she says "oh Hi!" each time.\
 This Project is created because i want to learn and have fun while doing so.\
